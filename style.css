@@ -12,3 +12,28 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    text-align: center;
+}
+
+#click {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#button {
+    text-align: center;
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-1000%);
+    -ms-transform: translateX(90%);
+    transform: translateX(700%);
+  }
