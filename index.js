@@ -8,6 +8,7 @@
 //   // document.body.style.color = 'white';
 // });
 
-// function(){}
+// function changeColor(){
+//     document.body.style.backgroundColor= 'rgb(' + Math.round('red') + ',' + Math.round('yellow') + ',' Math.round('yellow');
+// }
 
-// https://www.youtube.com/watch?v=xnUrOjV6t6g&ab_channel=CodingArtist

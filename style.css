@@ -28,7 +28,7 @@ p {
     text-align: center;
 }
 
-.vertical-center {
+.box {
     margin: 0;
     position: absolute;
     top: 50%;
