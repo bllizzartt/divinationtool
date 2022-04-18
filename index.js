@@ -1,5 +1,13 @@
-let btn = document.createElement("button");
-btn.innerHTML = "Click Me";
-document.body.appendChild(btn);
+// const btn = document.getElementById('btn');
 
-<button onclick="getElementById('demo').innerHTML = Date()">What is the time?</button>
+// btn.addEventListener('click', function onClick(event) {
+//   // 👇️ change background color
+//   document.body.style.backgroundColor = 'red', 'yellow', 'green';
+
+//   // 👇️ optionally change text color
+//   // document.body.style.color = 'white';
+// });
+
+// function(){}
+
+// https://www.youtube.com/watch?v=xnUrOjV6t6g&ab_channel=CodingArtist
