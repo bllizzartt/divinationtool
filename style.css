@@ -29,7 +29,7 @@ h4 {
 }
 
 #btn {  
-    margin-left: 925px;
+    margin-left: 830px;
     margin-top: 40px;
     /* width: 84px;
     height: 45px;   
@@ -38,4 +38,16 @@ h4 {
     color: white;   
     font-size:14px;
     font-weight:700; */
+}
+
+input[type=checkbox] {
+    vertical-align: middle;
+    position: relative;
+    bottom: 1px;
+}
+
+#sleep{
+    position: relative;
+    vertical-align: middle;
+    margin: 0%;
 }

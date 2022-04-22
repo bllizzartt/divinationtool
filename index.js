@@ -20,7 +20,10 @@ btn.addEventListener('click', function onClick(event) {
    //document.body.style.color = 'black';
 });
 
-// function changeColor(){
-//     document.body.style.backgroundColor= 'rgb(' + Math.round('red') + ',' + Math.round('yellow') + ',' Math.round('yellow');
-// });
+const cb = document.querySelector('#Did you sleep?');
+const cb1 = document.querySelector('#Did you eat breakfast?');
+const cb2 = document.querySelector('#Did you brush your teeth');
+console.log(cb.checked); // false
+
+
 
