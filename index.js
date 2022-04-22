@@ -7,6 +7,7 @@ btn.addEventListener('click', function onClick(event) {
   var randomNumber = Math.floor(Math.random() * 3);
   if (randomNumber == 0){
     document.body.style.backgroundColor = 'red';
+    //document.body.style.textAlign = 'hello';
   }
   else if (randomNumber == 1) {
     document.body.style.backgroundColor = 'yellow';

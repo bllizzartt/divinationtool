@@ -24,16 +24,18 @@ p {
     text-align: center;
 }
 
-#btn {
+h4 {
     text-align: center;
 }
 
-.box {
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-1000%);
-    -ms-transform: translateX(90%);
-    transform: translateX(700%);
-  }
+#btn {  
+    margin-left: 925px;
+    margin-top: 40px;
+    /* width: 84px;
+    height: 45px;   
+    background: fixed;
+    border: none;
+    color: white;   
+    font-size:14px;
+    font-weight:700; */
+}
