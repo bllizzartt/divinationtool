@@ -40,14 +40,8 @@ h4 {
     font-weight:700; */
 }
 
-input[type=checkbox] {
-    vertical-align: middle;
-    position: relative;
-    bottom: 1px;
-}
 
-#sleep{
-    position: relative;
+.class{
+    position: absolute;
     vertical-align: middle;
-    margin: 0%;
 }
