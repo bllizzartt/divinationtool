@@ -11,8 +11,7 @@ Low = 12hrs max outside (Green screen)
 Medium = 8hr max outside (Yellow screen)
 High = 4hr max outside (Red screen)
 
-I will also add NYC statisticis about murders, muggings, weather concerns, and various other facts about NYC risk assesments based on the severity of the random output.
-
+I also incorporated three checkboxes to determine the risk level of the day based on tasks that had been completeted in the morning. The user would click yes or no and then it would determine the users outcome after pressing the button.
  ### Process & Documentation
 This project consisted of a style.css, index.html, and index.js. The style page was straight forward and took care of the basic layout and text.
 The HTML aspect incorporated the btn and layout for the website as ell as the basic Doctype setup.
